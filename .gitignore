@@ -1,8 +1,23 @@
+# Node.js / React
 node_modules/
 build/
 dist/
 coverage/
-.DS_Store
 *.log
-.env*
-.env.example
+
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Research outputs
+backend/research/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
