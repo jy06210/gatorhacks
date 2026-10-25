@@ -1,0 +1,25 @@
+{
+  "elections": [
+    {
+      "id": "fl-2026-general",
+      "name": "Florida General Election",
+      "date": "2026-11-03",
+      "timezone": "America/New_York",
+      "type": "general",
+      "state": "FL",
+      "registration_deadline": "2026-10-05",
+      "vote_by_mail_request_deadline": "2026-10-22",
+      "mandatory_early_voting_start": "2026-10-24",
+      "mandatory_early_voting_end": "2026-10-31",
+      "county_extended_early_voting_varies": true,
+      "election_day_polling_hours_local": {
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      "source_ids": [
+        "fl-election-dates"
+      ],
+      "note": "County early voting periods may be longer; consult county supervisor."
+    }
+  ]
+}

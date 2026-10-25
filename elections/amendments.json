@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "statewide_count": 3,
+    "local_coverage": "partial Brevard and Lee only; not a complete county or municipality measure list",
+    "official_ballot_text_transcription_status": "not_transcribed",
+    "ai_fields_blank": true
+  },
+  "measures": [
+    {
+      "id": "fl-2026-amendment-1",
+      "election_id": "fl-2026-general",
+      "number": "1",
+      "title": "Budget Stabilization Fund",
+      "type": "constitutional_amendment",
+      "jurisdiction_id": "fl-statewide",
+      "official_ballot_text": null,
+      "official_description": "Increase maximum budget stabilization fund retention from 10% to 25% of general revenue collections; require certain annual transfers and permit withdrawals for critical state needs.",
+      "constitutional_article": "Article III, Section 19",
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-amendment-2",
+      "election_id": "fl-2026-general",
+      "number": "2",
+      "title": "Exemption of Tangible Personal Property on Agricultural Land from Taxation",
+      "type": "constitutional_amendment",
+      "jurisdiction_id": "fl-statewide",
+      "official_ballot_text": null,
+      "official_description": "Exempt qualifying tangible personal property on agricultural land from ad valorem taxation; applies starting tax year 2027 if approved.",
+      "constitutional_article": "Article VII, Section 3; Article XII",
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-amendment-3",
+      "election_id": "fl-2026-general",
+      "number": "3",
+      "title": "Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments",
+      "type": "constitutional_amendment",
+      "jurisdiction_id": "fl-statewide",
+      "official_ballot_text": null,
+      "official_description": "Amendment concerning increased non-school homestead exemption, lowering the annual non-homestead assessment growth cap, and specified property-tax uses; effective January 1, 2027 if approved.",
+      "constitutional_article": "Article VII, Sections 4, 6 and 9; Article XII",
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-lagoon-tax",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Renewal of the Save Our Indian River Lagoon Half-Cent Sales Tax",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-county-brevard",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-school-millage",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Renewal of ad valorem millage to sustain increased teacher pay and other purposes",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-county-brevard",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-school-surtax",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Renewal of half-cent sales surtax for critical school facility, security, and technology upgrades",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-county-brevard",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-malabar-council",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Amend Section 2.02 Relating To The Composition Of The Town Council",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-municipality-malabar",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-melbourne-zoning",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Authorizing Council to Delegate Board of Adjustment Duties to Zoning Commission",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-municipality-melbourne",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-melbourne-beach-bonds",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "General Obligation Bonds for Stormwater and Roadwork Projects",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-municipality-melbourne-beach",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-brevard-palm-bay-vacancies",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Charter amendment related to the process for filling vacancies on the City Council",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-municipality-palm-bay",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-lee-single-member-districts",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "County Commission Single Member Districts",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-county-lee",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "lee-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-lee-officer-term-limits",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Constitutional Officer Term Limits",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-county-lee",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "lee-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-lee-mosquito-merger",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Merger of the Lee County Mosquito Control and Fort Myers Beach Mosquito Control Districts",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-specialdistrict-lee-mosquito",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "lee-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-lee-fire-district-merger",
+      "election_id": "fl-2026-general",
+      "number": null,
+      "title": "Merger of Fort Myers Beach and Iona-McGregor Fire Control and Rescue Service Districts",
+      "type": "local_ballot_measure",
+      "jurisdiction_id": "fl-specialdistrict-iona-fmb-fire",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "lee-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-1",
+      "election_id": "fl-2026-general",
+      "number": "1",
+      "title": "Amend Section 1.05 Relating to the Form of Government",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-2",
+      "election_id": "fl-2026-general",
+      "number": "2",
+      "title": "Amend Section 2.02 Relating to the Composition and Qualifications of the Town Council",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-3",
+      "election_id": "fl-2026-general",
+      "number": "3",
+      "title": "Amend Section 2.07 to Delete References to Annual Compensation for Councilmembers and Mayor",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-4",
+      "election_id": "fl-2026-general",
+      "number": "4",
+      "title": "Amend Section 2.09 to Provide for the Powers and Duties of the Town Manager",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-5",
+      "election_id": "fl-2026-general",
+      "number": "5",
+      "title": "Amend Section 4.01 Relating to the Office of the Town Clerk",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-6",
+      "election_id": "fl-2026-general",
+      "number": "6",
+      "title": "Amend Section 4.03 Relating to the Removal of the Town Clerk",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-7",
+      "election_id": "fl-2026-general",
+      "number": "7",
+      "title": "Amend Section 5.01 Relating to Creation and Control Over Town Departments, Offices and Agencies",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-8",
+      "election_id": "fl-2026-general",
+      "number": "8",
+      "title": "Amend Section 5.02 Relating to Selection and Removal of Town Manager",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-9",
+      "election_id": "fl-2026-general",
+      "number": "9",
+      "title": "Amend Section 10.01 Relating to Seat Designation for Mayor and Council",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    },
+    {
+      "id": "fl-2026-palm-shores-10",
+      "election_id": "fl-2026-general",
+      "number": "10",
+      "title": "Amend Section 11.06 Relating to Charter Amendments and Revisions to Comply with Florida State Statutes",
+      "type": "municipal_charter_measure",
+      "jurisdiction_id": "fl-municipality-palm-shores",
+      "official_ballot_text": null,
+      "official_description": null,
+      "constitutional_article": null,
+      "verified_facts": [],
+      "ai": {
+        "summary": null,
+        "details": null,
+        "meaning_yes": null,
+        "meaning_no": null,
+        "model": null,
+        "review_status": "not_generated"
+      },
+      "public_positions": [],
+      "source_ids": [
+        "brevard-measures"
+      ],
+      "last_verified": "2026-10-24"
+    }
+  ]
+}
