@@ -1,5 +1,0 @@
-model:
-  model_class: openrouter
-  model_name: gemma-4-26b-a4b-it
-  openrouter_endpoint: https://generativelanguage.googleapis.com/v1beta/openai/chat/completions
-  provider_require_parameters: false
