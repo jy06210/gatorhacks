@@ -1,0 +1,613 @@
+{
+  "metadata": {
+    "election_id": "fl-2026-general",
+    "as_of": "2026-10-24",
+    "count": 67,
+    "county_level_data_complete": false
+  },
+  "counties": [
+    {
+      "id": "fl-county-alachua",
+      "name": "Alachua",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-baker",
+      "name": "Baker",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-bay",
+      "name": "Bay",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-bradford",
+      "name": "Bradford",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-brevard",
+      "name": "Brevard",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-broward",
+      "name": "Broward",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-calhoun",
+      "name": "Calhoun",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-charlotte",
+      "name": "Charlotte",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-citrus",
+      "name": "Citrus",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-clay",
+      "name": "Clay",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-collier",
+      "name": "Collier",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-columbia",
+      "name": "Columbia",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-desoto",
+      "name": "DeSoto",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-dixie",
+      "name": "Dixie",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-duval",
+      "name": "Duval",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-escambia",
+      "name": "Escambia",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-flagler",
+      "name": "Flagler",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-franklin",
+      "name": "Franklin",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-gadsden",
+      "name": "Gadsden",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-gilchrist",
+      "name": "Gilchrist",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-glades",
+      "name": "Glades",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-gulf",
+      "name": "Gulf",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-hamilton",
+      "name": "Hamilton",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-hardee",
+      "name": "Hardee",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-hendry",
+      "name": "Hendry",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-hernando",
+      "name": "Hernando",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-highlands",
+      "name": "Highlands",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-hillsborough",
+      "name": "Hillsborough",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-holmes",
+      "name": "Holmes",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-indian-river",
+      "name": "Indian River",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-jackson",
+      "name": "Jackson",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-jefferson",
+      "name": "Jefferson",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-lafayette",
+      "name": "Lafayette",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-lake",
+      "name": "Lake",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-lee",
+      "name": "Lee",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-leon",
+      "name": "Leon",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-levy",
+      "name": "Levy",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-liberty",
+      "name": "Liberty",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-madison",
+      "name": "Madison",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-manatee",
+      "name": "Manatee",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-marion",
+      "name": "Marion",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-martin",
+      "name": "Martin",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-miami-dade",
+      "name": "Miami-Dade",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-monroe",
+      "name": "Monroe",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-nassau",
+      "name": "Nassau",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-okaloosa",
+      "name": "Okaloosa",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-okeechobee",
+      "name": "Okeechobee",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-orange",
+      "name": "Orange",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-osceola",
+      "name": "Osceola",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-palm-beach",
+      "name": "Palm Beach",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-pasco",
+      "name": "Pasco",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-pinellas",
+      "name": "Pinellas",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-polk",
+      "name": "Polk",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-putnam",
+      "name": "Putnam",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-santa-rosa",
+      "name": "Santa Rosa",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-sarasota",
+      "name": "Sarasota",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-seminole",
+      "name": "Seminole",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-st-johns",
+      "name": "St. Johns",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-st-lucie",
+      "name": "St. Lucie",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-sumter",
+      "name": "Sumter",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-suwannee",
+      "name": "Suwannee",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-taylor",
+      "name": "Taylor",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-union",
+      "name": "Union",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-volusia",
+      "name": "Volusia",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-wakulla",
+      "name": "Wakulla",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-walton",
+      "name": "Walton",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    },
+    {
+      "id": "fl-county-washington",
+      "name": "Washington",
+      "state": "FL",
+      "supervisor_directory_url": "https://dos.elections.myflorida.com/supervisors/",
+      "local_roster_status": "not_imported",
+      "local_measures_status": "not_complete",
+      "sample_ballot_url": null
+    }
+  ]
+}

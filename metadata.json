@@ -1,6 +1,0 @@
-{
-  "name": "BallotWise",
-  "description": "Interactive Florida voter intelligence platform explaining candidates, amendments, and races in plain English for first-time voters.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "id": "fl-election-dates",
+      "title": "Florida Division of Elections — Election Dates",
+      "publisher": "Florida Department of State",
+      "url": "https://dos.fl.gov/elections/for-voters/election-dates/?lv=true",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "fl-candidate-tracker",
+      "title": "Florida Candidate Tracking System",
+      "publisher": "Florida Division of Elections",
+      "url": "https://dos.elections.myflorida.com/candidates/",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "fl-governor-roster",
+      "title": "Candidate Listing — Governor — 2026 General Election",
+      "publisher": "Florida Division of Elections",
+      "url": "https://dos.elections.myflorida.com/candidates/CanList.asp?OfficeCode=GOV&elecid=20261103-GEN",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "fl-candidate-download",
+      "title": "Download Candidate List",
+      "publisher": "Florida Division of Elections",
+      "url": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "fl-amendments",
+      "title": "2026 Constitutional Amendments — official publications",
+      "publisher": "Florida Department of State",
+      "url": "https://dos.fl.gov/elections/forms-publications/publicationsreports",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "brevard-measures",
+      "title": "2026 Amendments and Referenda",
+      "publisher": "Brevard County Supervisor of Elections",
+      "url": "https://www.votebrevard.gov/election-information/2026-amendments-and-referenda",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "lee-measures",
+      "title": "Proposed Ballot Measures",
+      "publisher": "Lee County Supervisor of Elections",
+      "url": "https://www.lee.vote/244/Proposed-Ballot-Measures",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    },
+    {
+      "id": "county-directory",
+      "title": "County Supervisor of Elections Directory",
+      "publisher": "Florida Department of State",
+      "url": "https://dos.elections.myflorida.com/supervisors/",
+      "type": "official_election",
+      "retrieved_at": "2026-10-24"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "coverage": "partial",
+    "not_a_complete_ballot": true
+  },
+  "races": [
+    {
+      "id": "fl-2026-governor",
+      "election_id": "fl-2026-general",
+      "office": "Governor",
+      "office_category": "state_executive",
+      "jurisdiction_id": "fl-statewide",
+      "candidate_ids": [
+        "flgov26-001",
+        "flgov26-002",
+        "flgov26-003",
+        "flgov26-004",
+        "flgov26-005",
+        "flgov26-006",
+        "flgov26-007",
+        "flgov26-008",
+        "flgov26-009",
+        "flgov26-010"
+      ],
+      "candidate_list_status": "partial_official_tracking_entries_not_ballot_certification",
+      "source_ids": [
+        "fl-governor-roster"
+      ]
+    }
+  ]
+}

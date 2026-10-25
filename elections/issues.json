@@ -1,0 +1,52 @@
+{
+  "issues": [
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare"
+    },
+    {
+      "id": "housing",
+      "name": "Housing"
+    },
+    {
+      "id": "cost-of-living",
+      "name": "Cost of Living"
+    },
+    {
+      "id": "environment",
+      "name": "Environment"
+    },
+    {
+      "id": "public-safety",
+      "name": "Public Safety"
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation"
+    },
+    {
+      "id": "taxes",
+      "name": "Taxes"
+    },
+    {
+      "id": "reproductive-healthcare",
+      "name": "Reproductive Healthcare"
+    },
+    {
+      "id": "immigration",
+      "name": "Immigration"
+    },
+    {
+      "id": "economic-development",
+      "name": "Economic Development"
+    },
+    {
+      "id": "government-transparency",
+      "name": "Government Transparency"
+    }
+  ]
+}
