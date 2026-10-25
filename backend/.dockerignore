@@ -1,0 +1,8 @@
+.venv/
+.venv-wsl/
+__pycache__/
+*.pyc
+.env
+.env.*
+.git/
+research/outputs/
