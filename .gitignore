@@ -17,6 +17,7 @@ __pycache__/
 
 # Research outputs
 backend/research/outputs/
+backend/data/research/candidate_profiles
 
 # OS files
 .DS_Store

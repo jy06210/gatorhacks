@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "categories": {
+    "Healthcare": ["healthcare", "health care", "medicaid", "medicare", "medical"],
+    "Economy": ["economy", "economic", "property insurance", "insurance", "tax", "housing", "cost", "business", "wage", "transit", "bus", "jobs"],
+    "Climate/Energy": ["climate", "energy", "environment", "water", "everglades", "emissions"],
+    "Abortion & Reproductive Health": ["abortion", "reproductive", "pregnancy", "contraception"],
+    "Immigration": ["immigration", "immigrant", "border"],
+    "Firearms & Second Amendment": ["firearm", "gun", "second amendment"],
+    "Foreign Policy": ["foreign", "diplomacy", "military", "international", "trade"],
+    "Civil Rights & Equality": ["civil rights", "equality", "discrimination", "lgbt", "racial"],
+    "Education": ["education", "school", "teacher", "student", "reading", "college"],
+    "Tech & AI": ["tech", "artificial intelligence", "ai", "data center", "privacy"],
+    "Election Policy": ["election", "voting", "ballot", "campaign finance"],
+    "Local Issues": ["local", "municipal", "county", "zoning"]
+  }
+}
